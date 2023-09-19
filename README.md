@@ -12,15 +12,6 @@ Our Instagram page is dedicated to sharing captivating coding concepts and hands
 GitHub Repository: Decoder AI GitHub 🧑‍💻
 In our GitHub repository, you'll find a comprehensive collection of the codebases featured on our Instagram page. Each project comes complete with detailed explanations, making it easy for you to dive into the world of web development. The repository is organized into folders, each corresponding to a specific project or tutorial. You're welcome to clone, fork, and adapt the code to suit your own projects. Remember to give credit if you use any of our code snippets! 👾📚
 
-Repository Structure 🏗️
-Project 1: [Project Name]
-
-Description: A brief overview of the project and its purpose.
-Technologies: List of HTML, CSS, and JavaScript concepts used.
-Features: Highlight the key functionalities and interactive elements.
-Screenshots/GIFs: Visual representations of the project's UI and interactions.
-How to Run: Step-by-step guide to set up and run the project locally.
-
 Contributions 🤝
 We believe in the power of the community to enhance and refine our coding projects. If you have any suggestions, bug fixes, or enhancements, feel free to submit pull requests. Let's collaborate and make these projects even better together! 🌟🤖
 
@@ -35,5 +26,5 @@ Happy coding! 😄🌈
 
 Instagram: [@decoder.ai]([url](https://www.instagram.com/decoder.ai/))
 Youtube: [@Decoder_ai]([url](https://www.youtube.com/@decoder_ai))
-GitHub: Decoder AI GitHub
+GitHub: [Decoder AI GitHub](https://github.com/decoder-ai)
 Let's code, create, and inspire together! 🚀👨‍💻👩‍💻🎉
